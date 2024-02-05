@@ -1,0 +1,8 @@
+@import url('https://use.typekit.net/vbw0sce.css'); 
+
+html, body, [class*="css"] {
+    font-family: 'Lithos Pro', sans-serif; 
+    font-size: 18px;
+    font-weight: 400;
+    color: #ffffff;
+}
